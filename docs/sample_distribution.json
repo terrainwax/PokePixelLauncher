@@ -12,7 +12,7 @@
     "servers": [
         {
             "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
+            "name": "PokePixel Server 1.12.2",
             "description": "Main WesterosCraft server. Connect to enter the Realm.",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
             "version": "3.9.4",
